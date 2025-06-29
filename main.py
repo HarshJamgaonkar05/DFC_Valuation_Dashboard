@@ -7,7 +7,7 @@ from plotly.subplots import make_subplots
 # Configure page
 st.set_page_config(
     page_title="Titan Company DCF Valuation",
-    page_icon="📈",
+    page_icon="Assets\Titan_logo.png",
     layout="wide",
     initial_sidebar_state="expanded"
 )
