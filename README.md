@@ -37,31 +37,6 @@ This project includes:
 
 ---
 
-## 🖥️ Dashboard Preview
-
-![Dashboard Screenshot](Assets/dashboard_preview.png)
-
----
-
-## 📌 Key Insights
-
-- **Intrinsic Share Price** (2030): ₹3,038.66  
-- **Current Market Price**: ₹3,526  
-- **Enterprise Value**: ₹2.83 Lakh Cr  
-- **Equity Value**: ₹2.69 Lakh Cr  
-- **WACC**: 8.55%, **Growth Rate**: 5.00%  
-- Sensitivity tables reveal valuation swings with respect to discount rate and growth assumptions.
-
----
-
-## 🔍 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/HarshJamgaonkar05/DFC_Valuation_Dashboard.git
-   cd DFC_Valuation_Dashboard
-
-
-Screener.in – Titan Company
-
-Yahoo Finance – TITAN.NS
+[Screener.in – Titan Company](https://www.screener.in/company/TITAN/consolidated/)
+<br>
+[Yahoo Finance – TITAN.NS](https://finance.yahoo.com/quote/TITAN.NS/)
