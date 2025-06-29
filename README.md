@@ -26,11 +26,6 @@ This project includes:
 
 ---
 
-## 📂 Project Structure
-
-
----
-
 ## 🧠 Skills Demonstrated
 
 - 📈 **Equity Valuation**: DCF, Terminal Value, FCFF Forecasting  
